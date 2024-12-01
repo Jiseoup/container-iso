@@ -5,7 +5,7 @@ with open('README.md', encoding='utf-8') as f:
 
 setup(
 	name='iso-container',
-	version='1.0.1',
+	version='1.0.2',
 	long_description=long_description,
 	long_description_content_type = 'text/markdown',
 	description='A Python package for ISO 6346 container information and validation.',
