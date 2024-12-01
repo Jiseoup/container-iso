@@ -1,0 +1,4292 @@
+{
+    "22B0": {
+        "class": "20 BULK CONTAINER",
+        "type": "BULK",
+        "length": 20,
+        "height": 8.5
+    },
+    "22B1": {
+        "class": "20 BULK CONTAINER",
+        "type": "DRY BULK",
+        "length": 20,
+        "height": 8.5
+    },
+    "22B3": {
+        "class": "20 BULK CONTAINER",
+        "type": "DRY BULK",
+        "length": 20,
+        "height": 8.5
+    },
+    "22B4": {
+        "class": "20 BULK CONTAINER",
+        "type": "DRY BULK",
+        "length": 20,
+        "height": 8.5
+    },
+    "22B5": {
+        "class": "20 BULK CONTAINER",
+        "type": "DRY BULK",
+        "length": 20,
+        "height": 8.5
+    },
+    "22B6": {
+        "class": "20 BULK CONTAINER",
+        "type": "DRY BULK",
+        "length": 20,
+        "height": 8.5
+    },
+    "22BK": {
+        "class": "20 BULK CONTAINER",
+        "type": "DRY BULK",
+        "length": 20,
+        "height": 8.5
+    },
+    "2080": {
+        "class": "20 BULK CONTAINER",
+        "type": "DRY BULK",
+        "length": 20,
+        "height": 8.0
+    },
+    "20B0": {
+        "class": "20 BULK CONTAINER",
+        "type": "DRY BULK",
+        "length": 20,
+        "height": 8.0
+    },
+    "20B1": {
+        "class": "20 BULK CONTAINER",
+        "type": "DRY BULK",
+        "length": 20,
+        "height": 8.0
+    },
+    "20B3": {
+        "class": "20 BULK CONTAINER",
+        "type": "DRY BULK",
+        "length": 20,
+        "height": 8.0
+    },
+    "20B4": {
+        "class": "20 BULK CONTAINER",
+        "type": "DRY BULK",
+        "length": 20,
+        "height": 8.0
+    },
+    "20B5": {
+        "class": "20 BULK CONTAINER",
+        "type": "DRY BULK",
+        "length": 20,
+        "height": 8.0
+    },
+    "20B6": {
+        "class": "20 BULK CONTAINER",
+        "type": "DRY BULK",
+        "length": 20,
+        "height": 8.0
+    },
+    "20BK": {
+        "class": "20 BULK CONTAINER",
+        "type": "DRY BULK",
+        "length": 20,
+        "height": 8.0
+    },
+    "20BU": {
+        "class": "20 BULK CONTAINER",
+        "type": "DRY BULK",
+        "length": 20,
+        "height": 8.0
+    },
+    "2280": {
+        "class": "20 BULK CONTAINER",
+        "type": "DRY BULK",
+        "length": 20,
+        "height": 8.5
+    },
+    "2281": {
+        "class": "20 BULK CONTAINER",
+        "type": "DRY BULK",
+        "length": 20,
+        "height": 8.5
+    },
+    "2299": {
+        "class": "20 BULK CONTAINER",
+        "type": "AIR/SURFACE",
+        "length": 20,
+        "height": 8.5
+    },
+    "22BU": {
+        "class": "20 BULK CONTAINER",
+        "type": "DRY BULK",
+        "length": 20,
+        "height": 8.5
+    },
+    "22G0": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.5
+    },
+    "22G1": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.5
+    },
+    "22G2": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.5
+    },
+    "22G3": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.5
+    },
+    "22V3": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.5
+    },
+    "2300": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.5
+    },
+    "2301": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.5
+    },
+    "2302": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.5
+    },
+    "2303": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.5
+    },
+    "2304": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.5
+    },
+    "2410": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "HIGH CUBE",
+        "length": 20,
+        "height": 9.5
+    },
+    "24G0": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 9.0
+    },
+    "24G1": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 9.0
+    },
+    "24G2": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 9.0
+    },
+    "24G3": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 9.0
+    },
+    "24GP": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 9.0
+    },
+    "2500": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.5
+    },
+    "25G0": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY HIGH CUBE",
+        "length": 20,
+        "height": 9.0
+    },
+    "2600": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 4.25
+    },
+    "26G0": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 9.5
+    },
+    "26G1": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 9.5
+    },
+    "26G2": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 9.5
+    },
+    "26G3": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 9.5
+    },
+    "26GP": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 9.5
+    },
+    "28G0": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 4.25
+    },
+    "28GP": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 4.25
+    },
+    "28U1": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "BIN HALF HEIGHT (OPEN TOP)",
+        "length": 20,
+        "height": 4.25
+    },
+    "28U2": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "OPENING(S) AT ONE OR BOTH ENDS, PLUS REMV TOP MEMB",
+        "length": 20,
+        "height": 8.5
+    },
+    "28UT": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "OPENING(S) AT ONE OR BOTH ENDS, PLUS REMV TOP MEMB",
+        "length": 20,
+        "height": 8.5
+    },
+    "2994": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "AIR/SURFACE",
+        "length": 20,
+        "height": 4.0
+    },
+    "2999": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "SLIDER CHASSIS",
+        "length": 20,
+        "height": 0.0
+    },
+    "3000": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 30,
+        "height": 8.0
+    },
+    "30G0": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "DRY CARGO/GENERAL PURPOSE",
+        "length": 30,
+        "height": 8.0
+    },
+    "3200": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 30,
+        "height": 8.5
+    },
+    "32G0": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "DRY CARGO/GENERAL PURPOSE",
+        "length": 30,
+        "height": 8.5
+    },
+    "3399": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "TRIAXLE CHASSIS",
+        "length": 23,
+        "height": 0.0
+    },
+    "7999": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "SLIDER CHASSIS",
+        "length": 20,
+        "height": 0.0
+    },
+    "B2G1": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "PASSIVE VENTS AT UPPER PART OF CARGO SPACE",
+        "length": 24,
+        "height": 8.5
+    },
+    "1000": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 10,
+        "height": 8.0
+    },
+    "10G0": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "DRY CARGO/GENERAL PURPOSE",
+        "length": 10,
+        "height": 8.0
+    },
+    "1200": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 10,
+        "height": 8.5
+    },
+    "12G0": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "DRY CARGO/GENERAL PURPOSE",
+        "length": 10,
+        "height": 8.5
+    },
+    "2000": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.0
+    },
+    "2001": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.0
+    },
+    "2002": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.0
+    },
+    "2003": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.0
+    },
+    "2004": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.0
+    },
+    "2025": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "LIVESTOCK CARRIER",
+        "length": 20,
+        "height": 8.0
+    },
+    "20G0": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.0
+    },
+    "20G1": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.0
+    },
+    "20G2": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.0
+    },
+    "20G3": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.0
+    },
+    "20GP": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.0
+    },
+    "2101": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.0
+    },
+    "2102": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.0
+    },
+    "2103": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.0
+    },
+    "2104": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.0
+    },
+    "2125": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "LIVESTOCK CARRIER",
+        "length": 20,
+        "height": 8.0
+    },
+    "2200": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.5
+    },
+    "2201": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.5
+    },
+    "2202": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.5
+    },
+    "2204": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.5
+    },
+    "2205": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.5
+    },
+    "2210": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.5
+    },
+    "2213": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.5
+    },
+    "2225": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "LIVESTOCK CARRIER",
+        "length": 20,
+        "height": 8.5
+    },
+    "22GP": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.5
+    },
+    "2212": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "GENERAL PURPOSE (HANGING GARMENTS)",
+        "length": 20,
+        "height": 8.5
+    },
+    "25GP": {
+        "class": "20 GENERAL PURPOSE CONTAINER",
+        "type": "HIGH CUBE",
+        "length": 20,
+        "height": 9.5
+    },
+    "22H0": {
+        "class": "20 INSULATED CONTAINER",
+        "type": "INSULATED (CONAIR)",
+        "length": 20,
+        "height": 8.5
+    },
+    "22H1": {
+        "class": "20 INSULATED CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 8.5
+    },
+    "22H2": {
+        "class": "20 INSULATED CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 8.5
+    },
+    "22H5": {
+        "class": "20 INSULATED CONTAINER",
+        "type": "THERMAL INSULATED",
+        "length": 20,
+        "height": 8.5
+    },
+    "22H6": {
+        "class": "20 INSULATED CONTAINER",
+        "type": "THERMAL INSULATED",
+        "length": 20,
+        "height": 8.5
+    },
+    "22HI": {
+        "class": "20 INSULATED CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 8.5
+    },
+    "24H5": {
+        "class": "20 INSULATED CONTAINER",
+        "type": "THERMAL INSULATED",
+        "length": 20,
+        "height": 9.0
+    },
+    "24H6": {
+        "class": "20 INSULATED CONTAINER",
+        "type": "THERMAL INSULATED",
+        "length": 20,
+        "height": 9.0
+    },
+    "2020": {
+        "class": "20 INSULATED CONTAINER",
+        "type": "THERMAL INSULATED",
+        "length": 20,
+        "height": 8.0
+    },
+    "20H0": {
+        "class": "20 INSULATED CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 8.0
+    },
+    "20H1": {
+        "class": "20 INSULATED CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 8.0
+    },
+    "20H2": {
+        "class": "20 INSULATED CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 8.0
+    },
+    "20H5": {
+        "class": "20 INSULATED CONTAINER",
+        "type": "THERMAL INSULATED",
+        "length": 20,
+        "height": 8.0
+    },
+    "20H6": {
+        "class": "20 INSULATED CONTAINER",
+        "type": "THERMAL INSULATED",
+        "length": 20,
+        "height": 8.0
+    },
+    "20HI": {
+        "class": "20 INSULATED CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 8.0
+    },
+    "20HR": {
+        "class": "20 INSULATED CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 8.0
+    },
+    "2220": {
+        "class": "20 INSULATED CONTAINER",
+        "type": "THERMAL INSULATED",
+        "length": 20,
+        "height": 8.5
+    },
+    "2224": {
+        "class": "20 INSULATED CONTAINER",
+        "type": "INSULATED",
+        "length": 20,
+        "height": 8.5
+    },
+    "22HR": {
+        "class": "20 INSULATED CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 8.5
+    },
+    "22P1": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "FLAT RACK",
+        "length": 20,
+        "height": 8.5
+    },
+    "22P2": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.5
+    },
+    "22P4": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.5
+    },
+    "22P5": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.5
+    },
+    "22P7": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM FIXED",
+        "length": 20,
+        "height": 8.5
+    },
+    "22P8": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.5
+    },
+    "22P9": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.5
+    },
+    "22PL": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.5
+    },
+    "22PS": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.5
+    },
+    "2361": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.5
+    },
+    "2362": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.5
+    },
+    "2363": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.5
+    },
+    "2364": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.5
+    },
+    "2365": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.5
+    },
+    "2366": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.5
+    },
+    "2367": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.5
+    },
+    "2651": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "OPEN TOP",
+        "length": 20,
+        "height": 4.25
+    },
+    "2661": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 4.25
+    },
+    "2761": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 4.25
+    },
+    "2063": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "FLAT",
+        "length": 20,
+        "height": 8.0
+    },
+    "2066": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.0
+    },
+    "2067": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.0
+    },
+    "20P2": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.0
+    },
+    "20P4": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.0
+    },
+    "20P5": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.0
+    },
+    "20PC": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.0
+    },
+    "20PF": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.0
+    },
+    "20PL": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.0
+    },
+    "20PS": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.0
+    },
+    "2160": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "FLAT",
+        "length": 20,
+        "height": 8.0
+    },
+    "2161": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.0
+    },
+    "2162": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.0
+    },
+    "2163": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.0
+    },
+    "2164": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.0
+    },
+    "2165": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.0
+    },
+    "2166": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.0
+    },
+    "2167": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.0
+    },
+    "2260": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "FLAT",
+        "length": 20,
+        "height": 8.5
+    },
+    "2261": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "FLAT",
+        "length": 20,
+        "height": 8.5
+    },
+    "2262": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.5
+    },
+    "2265": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.5
+    },
+    "2266": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.5
+    },
+    "2267": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.5
+    },
+    "22PF": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.5
+    },
+    "22PC": {
+        "class": "20 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.5
+    },
+    "8888": {
+        "class": "UNCONTAINERISED",
+        "type": "UNCONTAINERISED",
+        "length": 0,
+        "height": 0.0
+    },
+    "22P3": {
+        "class": "20 FLAT (COLLAPSIBLE)",
+        "type": "COLLAPSIBLE FLAT RACK",
+        "length": 20,
+        "height": 8.5
+    },
+    "20P3": {
+        "class": "20 FLAT (COLLAPSIBLE)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.0
+    },
+    "2263": {
+        "class": "20 FLAT (COLLAPSIBLE)",
+        "type": "FLAT",
+        "length": 20,
+        "height": 8.5
+    },
+    "2264": {
+        "class": "20 FLAT (COLLAPSIBLE)",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.5
+    },
+    "22R1": {
+        "class": "20 REEFER CONTAINER",
+        "type": "REEFER",
+        "length": 20,
+        "height": 8.5
+    },
+    "22R2": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 8.5
+    },
+    "22R3": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 8.5
+    },
+    "22R9": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 8.5
+    },
+    "22RC": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 8.5
+    },
+    "22RE": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 20,
+        "height": 8.5
+    },
+    "22RS": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 8.5
+    },
+    "2330": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 20,
+        "height": 8.5
+    },
+    "2331": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 20,
+        "height": 8.5
+    },
+    "2332": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 8.5
+    },
+    "2432": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 9.0
+    },
+    "24H0": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 9.0
+    },
+    "24H1": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 9.0
+    },
+    "24H2": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 9.0
+    },
+    "24HI": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 9.0
+    },
+    "24HR": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 9.0
+    },
+    "24R0": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 9.0
+    },
+    "24R1": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 9.0
+    },
+    "24R2": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 9.0
+    },
+    "24R3": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 9.0
+    },
+    "24RE": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 20,
+        "height": 9.0
+    },
+    "24RS": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 9.0
+    },
+    "24RT": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 9.0
+    },
+    "2030": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 20,
+        "height": 8.0
+    },
+    "2031": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 20,
+        "height": 8.0
+    },
+    "2032": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 8.0
+    },
+    "2040": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 20,
+        "height": 8.0
+    },
+    "2041": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 20,
+        "height": 8.0
+    },
+    "2042": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 20,
+        "height": 8.0
+    },
+    "2043": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 20,
+        "height": 8.0
+    },
+    "20R0": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 20,
+        "height": 8.0
+    },
+    "20R1": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 8.0
+    },
+    "20R2": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 8.0
+    },
+    "20R3": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 8.0
+    },
+    "20RE": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 20,
+        "height": 8.0
+    },
+    "20RS": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 8.0
+    },
+    "20RT": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 8.0
+    },
+    "2130": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 20,
+        "height": 8.0
+    },
+    "2131": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 20,
+        "height": 8.0
+    },
+    "2132": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 20,
+        "height": 8.0
+    },
+    "2230": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 20,
+        "height": 8.5
+    },
+    "2231": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 20,
+        "height": 8.5
+    },
+    "2232": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 8.5
+    },
+    "2240": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 20,
+        "height": 8.5
+    },
+    "2242": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 20,
+        "height": 8.5
+    },
+    "22R0": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 8.5
+    },
+    "22RT": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 20,
+        "height": 8.5
+    },
+    "2234": {
+        "class": "20 REEFER CONTAINER",
+        "type": "THERMAL CONTAINERS, HEATED",
+        "length": 20,
+        "height": 8.5
+    },
+    "22T0": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.5
+    },
+    "22T1": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.5
+    },
+    "22T2": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.5
+    },
+    "22T3": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.5
+    },
+    "22T4": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.5
+    },
+    "22T5": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.5
+    },
+    "22T6": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.5
+    },
+    "22T7": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.5
+    },
+    "22T8": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.5
+    },
+    "22T9": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.5
+    },
+    "22TD": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.5
+    },
+    "22TG": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.5
+    },
+    "2670": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 4.25
+    },
+    "2671": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 4.25
+    },
+    "2870": {
+        "class": "20 TANK CONTAINER",
+        "type": "HALF HEIGHT THERMAL TANK",
+        "length": 20,
+        "height": 0.0
+    },
+    "2070": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.0
+    },
+    "2071": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.0
+    },
+    "2072": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.0
+    },
+    "2073": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.0
+    },
+    "2074": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.0
+    },
+    "2075": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.0
+    },
+    "2076": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.0
+    },
+    "2077": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.0
+    },
+    "2078": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.0
+    },
+    "2079": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.0
+    },
+    "20T0": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.0
+    },
+    "20T1": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.0
+    },
+    "20T2": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.0
+    },
+    "20T3": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.0
+    },
+    "20T4": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.0
+    },
+    "20T5": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.0
+    },
+    "20T6": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.0
+    },
+    "20T7": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.0
+    },
+    "20T8": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.0
+    },
+    "20T9": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.0
+    },
+    "20TD": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.0
+    },
+    "20TG": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.0
+    },
+    "20TN": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.0
+    },
+    "2270": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.5
+    },
+    "2271": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.5
+    },
+    "2272": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.5
+    },
+    "2273": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.5
+    },
+    "2274": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.5
+    },
+    "2275": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.5
+    },
+    "2276": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.5
+    },
+    "2277": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.5
+    },
+    "2278": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.5
+    },
+    "2279": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.5
+    },
+    "22TN": {
+        "class": "20 TANK CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 8.5
+    },
+    "22U1": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 20,
+        "height": 8.5
+    },
+    "22U2": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 20,
+        "height": 8.5
+    },
+    "22U3": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 20,
+        "height": 8.5
+    },
+    "22U4": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 20,
+        "height": 8.5
+    },
+    "22U5": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 20,
+        "height": 8.5
+    },
+    "22U6": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.5
+    },
+    "2650": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 0,
+        "height": 4.25
+    },
+    "2750": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 20,
+        "height": 4.25
+    },
+    "2770": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 4.25
+    },
+    "2771": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "TANK",
+        "length": 20,
+        "height": 4.25
+    },
+    "2851": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "HALF OPEN TOP",
+        "length": 20,
+        "height": 0.0
+    },
+    "2050": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 20,
+        "height": 8.0
+    },
+    "2051": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 20,
+        "height": 8.0
+    },
+    "2052": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 20,
+        "height": 8.0
+    },
+    "2053": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 20,
+        "height": 8.0
+    },
+    "20U0": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 20,
+        "height": 8.0
+    },
+    "20U1": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 20,
+        "height": 8.0
+    },
+    "20U2": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 20,
+        "height": 8.0
+    },
+    "20U3": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 20,
+        "height": 8.0
+    },
+    "20U4": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 20,
+        "height": 8.0
+    },
+    "20U5": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 20,
+        "height": 8.0
+    },
+    "20UT": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 20,
+        "height": 8.0
+    },
+    "2150": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 20,
+        "height": 8.0
+    },
+    "2203": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 20,
+        "height": 8.5
+    },
+    "2250": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 20,
+        "height": 8.5
+    },
+    "2251": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 20,
+        "height": 8.5
+    },
+    "2252": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 20,
+        "height": 8.5
+    },
+    "2253": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 20,
+        "height": 8.5
+    },
+    "2259": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 20,
+        "height": 8.5
+    },
+    "22U0": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 20,
+        "height": 8.5
+    },
+    "22UT": {
+        "class": "20 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 20,
+        "height": 8.5
+    },
+    "22UP": {
+        "class": "20 HARDTOP CONTAINER",
+        "type": "HARD TOP",
+        "length": 20,
+        "height": 8.5
+    },
+    "22V0": {
+        "class": "20 VENTILATED CONTAINER",
+        "type": "CLOSED VENTED",
+        "length": 20,
+        "height": 8.5
+    },
+    "22V2": {
+        "class": "20 VENTILATED CONTAINER",
+        "type": "CLOSED VENTED",
+        "length": 20,
+        "height": 8.5
+    },
+    "22V4": {
+        "class": "20 VENTILATED CONTAINER",
+        "type": "CLOSED VENTED",
+        "length": 20,
+        "height": 8.5
+    },
+    "22VH": {
+        "class": "20 VENTILATED CONTAINER",
+        "type": "VENTILATED",
+        "length": 20,
+        "height": 8.5
+    },
+    "28VH": {
+        "class": "20 VENTILATED CONTAINER",
+        "type": "VENTED",
+        "length": 20,
+        "height": 4.75
+    },
+    "28VO": {
+        "class": "20 VENTILATED CONTAINER",
+        "type": "VENTED",
+        "length": 20,
+        "height": 4.75
+    },
+    "2010": {
+        "class": "20 VENTILATED CONTAINER",
+        "type": "CLOSED VENTED",
+        "length": 20,
+        "height": 8.0
+    },
+    "2011": {
+        "class": "20 VENTILATED CONTAINER",
+        "type": "CLOSED VENTED",
+        "length": 20,
+        "height": 8.0
+    },
+    "2013": {
+        "class": "20 VENTILATED CONTAINER",
+        "type": "CLOSED VENTILATED",
+        "length": 20,
+        "height": 8.0
+    },
+    "2015": {
+        "class": "20 VENTILATED CONTAINER",
+        "type": "CLOSED VENTILATED",
+        "length": 20,
+        "height": 8.0
+    },
+    "2017": {
+        "class": "20 VENTILATED CONTAINER",
+        "type": "CLOSED VENTILATED",
+        "length": 20,
+        "height": 8.0
+    },
+    "20V0": {
+        "class": "20 VENTILATED CONTAINER",
+        "type": "CLOSED VENTED",
+        "length": 20,
+        "height": 8.0
+    },
+    "20V2": {
+        "class": "20 VENTILATED CONTAINER",
+        "type": "CLOSED VENTED",
+        "length": 20,
+        "height": 8.0
+    },
+    "20V4": {
+        "class": "20 VENTILATED CONTAINER",
+        "type": "CLOSED VENTED",
+        "length": 20,
+        "height": 8.0
+    },
+    "20VH": {
+        "class": "20 VENTILATED CONTAINER",
+        "type": "CLOSED VENTED",
+        "length": 20,
+        "height": 8.0
+    },
+    "2113": {
+        "class": "20 VENTILATED CONTAINER",
+        "type": "CLOSED VENTILATED",
+        "length": 20,
+        "height": 8.0
+    },
+    "2117": {
+        "class": "20 VENTILATED CONTAINER",
+        "type": "CLOSED VENTILATED",
+        "length": 20,
+        "height": 8.0
+    },
+    "2211": {
+        "class": "20 VENTILATED CONTAINER",
+        "type": "CLOSED VENTED",
+        "length": 20,
+        "height": 8.5
+    },
+    "2215": {
+        "class": "20 VENTILATED CONTAINER",
+        "type": "CLOSED VENTILATED",
+        "length": 20,
+        "height": 8.5
+    },
+    "2216": {
+        "class": "20 VENTILATED CONTAINER",
+        "type": "CLOSED VENTILATED",
+        "length": 20,
+        "height": 8.5
+    },
+    "2217": {
+        "class": "20 VENTILATED CONTAINER",
+        "type": "CLOSED VENTILATED",
+        "length": 20,
+        "height": 8.5
+    },
+    "29P0": {
+        "class": "20 PLATFORM",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 1.0
+    },
+    "29P1": {
+        "class": "20 PLATFORM",
+        "type": "PLATFORM (CONTAINER)",
+        "length": 20,
+        "height": 4.0
+    },
+    "2060": {
+        "class": "20 PLATFORM",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.0
+    },
+    "2061": {
+        "class": "20 PLATFORM",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.0
+    },
+    "2062": {
+        "class": "20 PLATFORM",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.0
+    },
+    "2064": {
+        "class": "20 PLATFORM",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.0
+    },
+    "2065": {
+        "class": "20 PLATFORM",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.0
+    },
+    "20P0": {
+        "class": "20 PLATFORM",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.0
+    },
+    "20P1": {
+        "class": "20 PLATFORM",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.0
+    },
+    "22P0": {
+        "class": "20 PLATFORM",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 8.5
+    },
+    "2760": {
+        "class": "20 PLATFORM",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 4.25
+    },
+    "2960": {
+        "class": "20 PLATFORM",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 4.0
+    },
+    "2969": {
+        "class": "20 PLATFORM",
+        "type": "PLATFORM",
+        "length": 20,
+        "height": 4.0
+    },
+    "29PL": {
+        "class": "20 PLATFORM",
+        "type": "PLATFORM (CONTAINER)",
+        "length": 20,
+        "height": 1.0
+    },
+    "42G0": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.5
+    },
+    "42G1": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.5
+    },
+    "42G2": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.5
+    },
+    "42G3": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.5
+    },
+    "4300": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.5
+    },
+    "4301": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.5
+    },
+    "4302": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.5
+    },
+    "4303": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.5
+    },
+    "4304": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.5
+    },
+    "4305": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.5
+    },
+    "4310": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.5
+    },
+    "4311": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "CLOSED VENTED",
+        "length": 40,
+        "height": 8.5
+    },
+    "4312": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "GENERAL PURPOSE (HANGING GARMENTS)",
+        "length": 40,
+        "height": 8.5
+    },
+    "4313": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "VENTILATED",
+        "length": 40,
+        "height": 0.0
+    },
+    "4315": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "CLOSED VENTILATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "4325": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "LIVESTOCK CARRIER",
+        "length": 40,
+        "height": 8.5
+    },
+    "4326": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "AUTOMOBILE CARRIER",
+        "length": 40,
+        "height": 8.5
+    },
+    "4380": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "DRY BULK",
+        "length": 40,
+        "height": 8.5
+    },
+    "44G0": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 9.0
+    },
+    "44G1": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 9.0
+    },
+    "44G2": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 9.0
+    },
+    "44G3": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 9.0
+    },
+    "44GP": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 9.0
+    },
+    "4595": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "AIR/SURFACE",
+        "length": 40,
+        "height": 8.5
+    },
+    "4599": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "AIR/SURFACE",
+        "length": 40,
+        "height": 9.0
+    },
+    "4651": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "HALF HIGH",
+        "length": 40,
+        "height": 0.0
+    },
+    "4699": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "AIR/SURFACE",
+        "length": 40,
+        "height": 4.25
+    },
+    "4886": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "DRY BULK",
+        "length": 40,
+        "height": 4.25
+    },
+    "48UI": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "HALF HEIGHT (OPEN TOP)",
+        "length": 40,
+        "height": 4.25
+    },
+    "4994": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "AIR/SURFACE",
+        "length": 40,
+        "height": 8.5
+    },
+    "4999": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "GOOSENECK CHASSIS",
+        "length": 40,
+        "height": 0.0
+    },
+    "4CG0": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "OPENING(S) AT ONE OR BOTH ENDS",
+        "length": 40,
+        "height": 8.5
+    },
+    "4CGP": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "OPENING(S) AT ONE OR BOTH ENDS",
+        "length": 40,
+        "height": 8.5
+    },
+    "8500": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 35,
+        "height": 8.5
+    },
+    "8599": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "AIR/SURFACE",
+        "length": 35,
+        "height": 8.5
+    },
+    "9995": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "AIR/SURFACE",
+        "length": 40,
+        "height": 4.0
+    },
+    "9998": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "AIR/SURFACE",
+        "length": 40,
+        "height": 4.0
+    },
+    "9999": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "AIR/SURFACE",
+        "length": 40,
+        "height": 4.0
+    },
+    "M2G0": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "OPENING(S) AT ONE END OR BOTH ENDS",
+        "length": 48,
+        "height": 8.5
+    },
+    "P2G0": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "OPENING(S) AT ONE END OR BOTH ENDS",
+        "length": 53,
+        "height": 8.5
+    },
+    "4000": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.0
+    },
+    "4001": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.0
+    },
+    "4002": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.0
+    },
+    "4003": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.0
+    },
+    "4004": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.0
+    },
+    "4020": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "THERMAL INSULATED",
+        "length": 40,
+        "height": 8.0
+    },
+    "4025": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "LIVESTOCK CARRIER",
+        "length": 40,
+        "height": 8.0
+    },
+    "4026": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "AUTOMOBILE CARRIER",
+        "length": 40,
+        "height": 8.0
+    },
+    "4080": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "DRY BULK",
+        "length": 40,
+        "height": 8.0
+    },
+    "4096": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "AIR/SURFACE",
+        "length": 40,
+        "height": 8.0
+    },
+    "40B0": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "DRY BULK",
+        "length": 40,
+        "height": 8.0
+    },
+    "40B1": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "DRY BULK",
+        "length": 40,
+        "height": 8.0
+    },
+    "40B3": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "DRY BULK",
+        "length": 40,
+        "height": 8.0
+    },
+    "40B4": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "DRY BULK",
+        "length": 40,
+        "height": 8.0
+    },
+    "40B5": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "DRY BULK",
+        "length": 40,
+        "height": 8.0
+    },
+    "40B6": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "DRY BULK",
+        "length": 40,
+        "height": 8.0
+    },
+    "40BK": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "DRY BULK",
+        "length": 40,
+        "height": 8.0
+    },
+    "40BU": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "DRY BULK",
+        "length": 40,
+        "height": 8.0
+    },
+    "40G0": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.0
+    },
+    "40G1": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.0
+    },
+    "40G2": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.0
+    },
+    "40G3": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.0
+    },
+    "40GP": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.0
+    },
+    "4101": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.0
+    },
+    "4102": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.0
+    },
+    "4103": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.0
+    },
+    "4104": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.0
+    },
+    "4126": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "AUTOMOBILE CARRIER",
+        "length": 40,
+        "height": 8.0
+    },
+    "4200": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.5
+    },
+    "4201": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.5
+    },
+    "4202": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.5
+    },
+    "4203": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.5
+    },
+    "4204": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.5
+    },
+    "4225": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "LIVESTOCK CARRIER",
+        "length": 40,
+        "height": 8.5
+    },
+    "4226": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "AUTOMOBILE CARRIER",
+        "length": 40,
+        "height": 8.5
+    },
+    "4280": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "DRY BULK",
+        "length": 40,
+        "height": 8.5
+    },
+    "42B0": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "DRY BULK",
+        "length": 40,
+        "height": 8.5
+    },
+    "42B1": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "DRY BULK",
+        "length": 40,
+        "height": 8.5
+    },
+    "42B3": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "DRY BULK",
+        "length": 40,
+        "height": 8.5
+    },
+    "42B4": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "DRY BULK",
+        "length": 40,
+        "height": 8.5
+    },
+    "42B5": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "DRY BULK",
+        "length": 40,
+        "height": 8.5
+    },
+    "42B6": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "DRY BULK",
+        "length": 40,
+        "height": 8.5
+    },
+    "42BK": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "DRY BULK",
+        "length": 40,
+        "height": 8.5
+    },
+    "42BU": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "DRY BULK",
+        "length": 40,
+        "height": 8.5
+    },
+    "42GP": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.5
+    },
+    "42G4": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "GENERAL PUROSE (HANGING GARMENTS)",
+        "length": 40,
+        "height": 8.5
+    },
+    "4CG1": {
+        "class": "40 GENERAL PURPOSE CONTAINER",
+        "type": "PASSIVE VENTS AT UPPER PART OF CARGO SPACE",
+        "length": 40,
+        "height": 8.5
+    },
+    "42H5": {
+        "class": "40 INSULATED CONTAINER",
+        "type": "THERMAL INSULATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "42H6": {
+        "class": "40 INSULATED CONTAINER",
+        "type": "THERMAL INSULATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "44H5": {
+        "class": "40 INSULATED CONTAINER",
+        "type": "THERMAL INSULATED",
+        "length": 40,
+        "height": 9.0
+    },
+    "44H6": {
+        "class": "40 INSULATED CONTAINER",
+        "type": "THERMAL INSULATED",
+        "length": 40,
+        "height": 9.0
+    },
+    "45H5": {
+        "class": "40 INSULATED CONTAINER",
+        "type": "THERMAL INSULATED",
+        "length": 45,
+        "height": 9.5
+    },
+    "45H6": {
+        "class": "40 INSULATED CONTAINER",
+        "type": "THERMAL INSULATED",
+        "length": 45,
+        "height": 9.5
+    },
+    "L2H5": {
+        "class": "40 INSULATED CONTAINER",
+        "type": "THERMAL INSULATED",
+        "length": 45,
+        "height": 8.5
+    },
+    "L2H6": {
+        "class": "40 INSULATED CONTAINER",
+        "type": "THERMAL INSULATED",
+        "length": 45,
+        "height": 8.5
+    },
+    "L5H5": {
+        "class": "40 INSULATED CONTAINER",
+        "type": "THERMAL INSULATED",
+        "length": 45,
+        "height": 9.5
+    },
+    "L5H6": {
+        "class": "40 INSULATED CONTAINER",
+        "type": "THERMAL INSULATED",
+        "length": 45,
+        "height": 9.5
+    },
+    "42HR": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "42HI": {
+        "class": "40 INSULATED CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "42P1": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "FLAT RACK",
+        "length": 40,
+        "height": 8.5
+    },
+    "42P2": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.5
+    },
+    "42P4": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.5
+    },
+    "42P5": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.5
+    },
+    "42P8": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.5
+    },
+    "42P9": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.5
+    },
+    "42PL": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.5
+    },
+    "42PS": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.5
+    },
+    "4361": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "FLAT",
+        "length": 40,
+        "height": 8.5
+    },
+    "4362": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.5
+    },
+    "4364": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.5
+    },
+    "4365": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.5
+    },
+    "4366": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.5
+    },
+    "4367": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.5
+    },
+    "4560": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.5
+    },
+    "4561": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.5
+    },
+    "4661": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 4.25
+    },
+    "4761": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 4.25
+    },
+    "48P1": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 4.25
+    },
+    "48P5": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 4.25
+    },
+    "48PC": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 4.25
+    },
+    "48PF": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 4.25
+    },
+    "48PL": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 4.25
+    },
+    "4061": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.0
+    },
+    "4062": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.0
+    },
+    "4063": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.0
+    },
+    "4064": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.0
+    },
+    "4065": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.0
+    },
+    "4066": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.0
+    },
+    "4067": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.0
+    },
+    "40P1": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.0
+    },
+    "40P2": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.0
+    },
+    "40P4": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.0
+    },
+    "40P5": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.0
+    },
+    "40PC": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.0
+    },
+    "40PF": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.0
+    },
+    "40PL": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.0
+    },
+    "40PS": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.0
+    },
+    "4161": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.0
+    },
+    "4162": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.0
+    },
+    "4163": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.0
+    },
+    "4164": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.0
+    },
+    "4165": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.0
+    },
+    "4166": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.0
+    },
+    "4167": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.0
+    },
+    "4261": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.5
+    },
+    "4262": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.5
+    },
+    "4263": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "FLAT",
+        "length": 40,
+        "height": 8.5
+    },
+    "4264": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.5
+    },
+    "4265": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.5
+    },
+    "4266": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.5
+    },
+    "4267": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.5
+    },
+    "42PC": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.5
+    },
+    "42PF": {
+        "class": "40 FLAT (FIXED ENDS)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.5
+    },
+    "42P3": {
+        "class": "40 FLAT (COLLAPSIBLE)",
+        "type": "COLLAPSIBLE FLAT RACK",
+        "length": 40,
+        "height": 8.5
+    },
+    "4363": {
+        "class": "40 FLAT (COLLAPSIBLE)",
+        "type": "FLAT",
+        "length": 40,
+        "height": 8.5
+    },
+    "48P3": {
+        "class": "40 FLAT (COLLAPSIBLE)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 4.25
+    },
+    "40P3": {
+        "class": "40 FLAT (COLLAPSIBLE)",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.0
+    },
+    "42R1": {
+        "class": "40 REEFER CONTAINER",
+        "type": "REEFER",
+        "length": 40,
+        "height": 8.5
+    },
+    "42R2": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "42R3": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "42R9": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "42RC": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "42RE": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "42RS": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "4320": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL INSULATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "4330": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "4332": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "4333": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "4340": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "44H0": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 9.0
+    },
+    "44H1": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 9.0
+    },
+    "44H2": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 9.0
+    },
+    "44HI": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 9.0
+    },
+    "44HR": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 9.0
+    },
+    "44R0": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 9.0
+    },
+    "44R1": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 9.0
+    },
+    "44R2": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 9.0
+    },
+    "44R3": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 9.0
+    },
+    "44RE": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 40,
+        "height": 9.0
+    },
+    "44RS": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 9.0
+    },
+    "44RT": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 9.0
+    },
+    "8520": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL INSULATED",
+        "length": 35,
+        "height": 8.5
+    },
+    "8532": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 35,
+        "height": 8.5
+    },
+    "4030": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 40,
+        "height": 8.0
+    },
+    "4031": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 40,
+        "height": 8.0
+    },
+    "4032": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 8.0
+    },
+    "4040": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 40,
+        "height": 8.0
+    },
+    "40H0": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 8.0
+    },
+    "40H1": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 8.0
+    },
+    "40H2": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 8.0
+    },
+    "40H5": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL INSULATED",
+        "length": 40,
+        "height": 8.0
+    },
+    "40H6": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL INSULATED",
+        "length": 40,
+        "height": 8.0
+    },
+    "40HI": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 8.0
+    },
+    "40HR": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 8.0
+    },
+    "40R0": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 8.0
+    },
+    "40R1": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 8.0
+    },
+    "40R2": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 8.0
+    },
+    "40R3": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 8.0
+    },
+    "40RE": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 40,
+        "height": 8.0
+    },
+    "40RS": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 8.0
+    },
+    "40RT": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 8.0
+    },
+    "4130": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 40,
+        "height": 8.0
+    },
+    "4131": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 40,
+        "height": 8.0
+    },
+    "4132": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 8.0
+    },
+    "4224": {
+        "class": "40 REEFER CONTAINER",
+        "type": "INSULATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "4230": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "4231": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "4232": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "4240": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "4243": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "42H1": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "42H2": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "42R0": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "4432": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 9.0
+    },
+    "42RT": {
+        "class": "40 REEFER CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "42T0": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.5
+    },
+    "42T1": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.5
+    },
+    "42T2": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.5
+    },
+    "42T3": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.5
+    },
+    "42T4": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.5
+    },
+    "42T5": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.5
+    },
+    "42T6": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.5
+    },
+    "42T7": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.5
+    },
+    "42T8": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.5
+    },
+    "42T9": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.5
+    },
+    "42TD": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.5
+    },
+    "42TG": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.5
+    },
+    "4370": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.5
+    },
+    "8770": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 35,
+        "height": 4.25
+    },
+    "4070": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.0
+    },
+    "4071": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.0
+    },
+    "40T0": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.0
+    },
+    "40T1": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.0
+    },
+    "40T2": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.0
+    },
+    "40T3": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.0
+    },
+    "40T4": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.0
+    },
+    "40T5": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.0
+    },
+    "40T6": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.0
+    },
+    "40T7": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.0
+    },
+    "40T8": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.0
+    },
+    "40T9": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.0
+    },
+    "40TD": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.0
+    },
+    "40TG": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.0
+    },
+    "40TN": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.0
+    },
+    "4170": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.0
+    },
+    "4270": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.5
+    },
+    "4271": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.5
+    },
+    "42TN": {
+        "class": "40 TANK CONTAINER",
+        "type": "TANK",
+        "length": 40,
+        "height": 8.5
+    },
+    "42U1": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 40,
+        "height": 8.5
+    },
+    "42U2": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 40,
+        "height": 8.5
+    },
+    "42U3": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 40,
+        "height": 8.5
+    },
+    "42U4": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 40,
+        "height": 8.5
+    },
+    "42U5": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 40,
+        "height": 8.5
+    },
+    "42U6": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.5
+    },
+    "4350": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 40,
+        "height": 8.5
+    },
+    "4351": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 40,
+        "height": 8.5
+    },
+    "4650": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 40,
+        "height": 4.25
+    },
+    "4750": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 40,
+        "height": 4.25
+    },
+    "4751": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 40,
+        "height": 4.25
+    },
+    "48U0": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 40,
+        "height": 4.25
+    },
+    "48UT": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 40,
+        "height": 4.25
+    },
+    "8550": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 35,
+        "height": 8.5
+    },
+    "4050": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 40,
+        "height": 8.0
+    },
+    "4051": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 40,
+        "height": 8.0
+    },
+    "4052": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 40,
+        "height": 8.0
+    },
+    "4053": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 40,
+        "height": 8.0
+    },
+    "40U0": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 40,
+        "height": 8.0
+    },
+    "40U1": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 40,
+        "height": 8.0
+    },
+    "40U2": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 40,
+        "height": 8.0
+    },
+    "40U3": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 40,
+        "height": 8.0
+    },
+    "40U4": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 40,
+        "height": 8.0
+    },
+    "40U5": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 40,
+        "height": 8.0
+    },
+    "40UT": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 40,
+        "height": 8.0
+    },
+    "4250": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 40,
+        "height": 8.5
+    },
+    "4251": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 40,
+        "height": 8.5
+    },
+    "4252": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 40,
+        "height": 8.5
+    },
+    "4253": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 40,
+        "height": 8.5
+    },
+    "42P6": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 40,
+        "height": 8.5
+    },
+    "42U0": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 40,
+        "height": 8.5
+    },
+    "42UT": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP",
+        "length": 40,
+        "height": 8.5
+    },
+    "4551": {
+        "class": "40 OPEN TOP CONTAINER",
+        "type": "OPEN TOP HIGHCUBE",
+        "length": 40,
+        "height": 9.5
+    },
+    "42UP": {
+        "class": "40 HARDTOP CONTAINER",
+        "type": "HARD TOP",
+        "length": 40,
+        "height": 8.5
+    },
+    "42V0": {
+        "class": "40 VENTILATED CONTAINER",
+        "type": "CLOSED VENTED",
+        "length": 40,
+        "height": 8.5
+    },
+    "42V2": {
+        "class": "40 VENTILATED CONTAINER",
+        "type": "CLOSED VENTED",
+        "length": 40,
+        "height": 8.5
+    },
+    "42V4": {
+        "class": "40 VENTILATED CONTAINER",
+        "type": "CLOSED VENTED",
+        "length": 40,
+        "height": 8.5
+    },
+    "42VH": {
+        "class": "40 VENTILATED CONTAINER",
+        "type": "VENTILATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "4010": {
+        "class": "40 VENTILATED CONTAINER",
+        "type": "CLOSED VENTED",
+        "length": 40,
+        "height": 8.0
+    },
+    "4011": {
+        "class": "40 VENTILATED CONTAINER",
+        "type": "CLOSED VENTED",
+        "length": 40,
+        "height": 8.0
+    },
+    "4015": {
+        "class": "40 VENTILATED CONTAINER",
+        "type": "CLOSED VENTILATED",
+        "length": 40,
+        "height": 8.0
+    },
+    "40V0": {
+        "class": "40 VENTILATED CONTAINER",
+        "type": "CLOSED VENTED",
+        "length": 40,
+        "height": 8.0
+    },
+    "40V2": {
+        "class": "40 VENTILATED CONTAINER",
+        "type": "CLOSED VENTED",
+        "length": 40,
+        "height": 8.0
+    },
+    "40V4": {
+        "class": "40 VENTILATED CONTAINER",
+        "type": "CLOSED VENTED",
+        "length": 40,
+        "height": 8.0
+    },
+    "40VH": {
+        "class": "40 VENTILATED CONTAINER",
+        "type": "CLOSED VENTED",
+        "length": 40,
+        "height": 8.0
+    },
+    "4210": {
+        "class": "40 VENTILATED CONTAINER",
+        "type": "CLOSED VENTED",
+        "length": 40,
+        "height": 8.5
+    },
+    "4211": {
+        "class": "40 VENTILATED CONTAINER",
+        "type": "CLOSED VENTED",
+        "length": 40,
+        "height": 8.5
+    },
+    "4215": {
+        "class": "40 VENTILATED CONTAINER",
+        "type": "CLOSED VENTILATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "45G0": {
+        "class": "40 HIGH CUBE CONTAINER",
+        "type": "HIGH CUBE",
+        "length": 40,
+        "height": 9.5
+    },
+    "45G1": {
+        "class": "40 HIGH CUBE CONTAINER",
+        "type": "HIGH CUBE",
+        "length": 40,
+        "height": 9.5
+    },
+    "45G2": {
+        "class": "40 HIGH CUBE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 9.5
+    },
+    "45G3": {
+        "class": "40 HIGH CUBE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 9.5
+    },
+    "45G4": {
+        "class": "40 HIGH CUBE CONTAINER",
+        "type": "UNRECOGNIZED CONTAINER TYPE",
+        "length": 0,
+        "height": 0.0
+    },
+    "9200": {
+        "class": "40 HIGH CUBE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 45,
+        "height": 8.5
+    },
+    "9400": {
+        "class": "40 HIGH CUBE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 45,
+        "height": 9.5
+    },
+    "4400": {
+        "class": "40 HIGH CUBE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 9.0
+    },
+    "4410": {
+        "class": "40 HIGH CUBE CONTAINER",
+        "type": "HIGH CUBE",
+        "length": 40,
+        "height": 9.5
+    },
+    "4420": {
+        "class": "40 HIGH CUBE CONTAINER",
+        "type": "THERMAL INSULATED",
+        "length": 40,
+        "height": 9.0
+    },
+    "4426": {
+        "class": "40 HIGH CUBE CONTAINER",
+        "type": "AUTOMOBILE CARRIER",
+        "length": 40,
+        "height": 9.0
+    },
+    "4500": {
+        "class": "40 HIGH CUBE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.5
+    },
+    "4505": {
+        "class": "40 HIGH CUBE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 8.5
+    },
+    "4510": {
+        "class": "40 HIGH CUBE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 9.5
+    },
+    "4511": {
+        "class": "40 HIGH CUBE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 9.5
+    },
+    "4514": {
+        "class": "40 HIGH CUBE CONTAINER",
+        "type": "HIGH CUBE",
+        "length": 40,
+        "height": 9.5
+    },
+    "45GP": {
+        "class": "40 HIGH CUBE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 40,
+        "height": 9.5
+    },
+    "45R0": {
+        "class": "40 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 45,
+        "height": 9.5
+    },
+    "45R1": {
+        "class": "40 REEFER HIGHCUBE CONTAINER",
+        "type": "REEFER HIGH CUBE",
+        "length": 40,
+        "height": 9.5
+    },
+    "45R2": {
+        "class": "40 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 45,
+        "height": 9.5
+    },
+    "45R3": {
+        "class": "40 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 45,
+        "height": 9.5
+    },
+    "45R9": {
+        "class": "40 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 40,
+        "height": 9.5
+    },
+    "45RC": {
+        "class": "40 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 9.5
+    },
+    "45RE": {
+        "class": "40 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 45,
+        "height": 9.5
+    },
+    "45RS": {
+        "class": "40 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 45,
+        "height": 9.5
+    },
+    "4530": {
+        "class": "40 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "4531": {
+        "class": "40 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "4532": {
+        "class": "40 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "4533": {
+        "class": "40 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 40,
+        "height": 8.5
+    },
+    "45H2": {
+        "class": "40 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 45,
+        "height": 9.5
+    },
+    "45RT": {
+        "class": "40 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 45,
+        "height": 9.5
+    },
+    "4534": {
+        "class": "40 REEFER HIGHCUBE CONTAINER",
+        "type": "HIGHCUBE INTEGRATED REEFER",
+        "length": 40,
+        "height": 9.5
+    },
+    "45U6": {
+        "class": "40 HIGH CUBE HARDTOP CONTAINER",
+        "type": "HIGH CUBE HARD TOP",
+        "length": 40,
+        "height": 9.5
+    },
+    "45UP": {
+        "class": "40 HIGH CUBE HARDTOP CONTAINER",
+        "type": "HIGH CUBE HARD TOP",
+        "length": 40,
+        "height": 9.5
+    },
+    "49P0": {
+        "class": "40 PLATFORM",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 4.0
+    },
+    "49P1": {
+        "class": "40 PLATFORM",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 4.0
+    },
+    "49P3": {
+        "class": "40 PLATFORM",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 4.0
+    },
+    "49P5": {
+        "class": "40 PLATFORM",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 4.0
+    },
+    "49PC": {
+        "class": "40 PLATFORM",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 4.0
+    },
+    "49PF": {
+        "class": "40 PLATFORM",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 4.0
+    },
+    "4060": {
+        "class": "40 PLATFORM",
+        "type": "FLAT",
+        "length": 40,
+        "height": 8.0
+    },
+    "40P0": {
+        "class": "40 PLATFORM",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.0
+    },
+    "4260": {
+        "class": "40 PLATFORM",
+        "type": "FLAT",
+        "length": 40,
+        "height": 8.5
+    },
+    "42P0": {
+        "class": "40 PLATFORM",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 8.5
+    },
+    "4360": {
+        "class": "40 PLATFORM",
+        "type": "FLAT",
+        "length": 40,
+        "height": 8.5
+    },
+    "45P3": {
+        "class": "40 PLATFORM",
+        "type": "FOLDING COMPLETE END STRUCTURE (PLATFORM)",
+        "length": 40,
+        "height": 9.5
+    },
+    "45P8": {
+        "class": "40 PLATFORM",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 9.5
+    },
+    "45PC": {
+        "class": "40 PLATFORM",
+        "type": "FOLDING COMPLETE END STRUCTURE (PLATFORM)",
+        "length": 40,
+        "height": 9.5
+    },
+    "48P0": {
+        "class": "40 PLATFORM",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 4.25
+    },
+    "4960": {
+        "class": "40 PLATFORM",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 4.0
+    },
+    "49PL": {
+        "class": "40 PLATFORM",
+        "type": "PLATFORM",
+        "length": 40,
+        "height": 4.0
+    },
+    "9500": {
+        "class": "45 HIGH CUBE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 45,
+        "height": 9.5
+    },
+    "9510": {
+        "class": "45 HIGH CUBE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 45,
+        "height": 9.5
+    },
+    "L5G1": {
+        "class": "45 HIGH CUBE CONTAINER",
+        "type": "45 HIGH CUBE",
+        "length": 45,
+        "height": 9.0
+    },
+    "L5G2": {
+        "class": "45 HIGH CUBE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 45,
+        "height": 9.5
+    },
+    "L5G3": {
+        "class": "45 HIGH CUBE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 45,
+        "height": 9.5
+    },
+    "L5G9": {
+        "class": "45 HIGH CUBE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 45,
+        "height": 9.5
+    },
+    "L0G9": {
+        "class": "45 HIGH CUBE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 45,
+        "height": 8.0
+    },
+    "L0GP": {
+        "class": "45 HIGH CUBE CONTAINER",
+        "type": "HL: OPENING(S) AT ONE END OR BOTH ENDS",
+        "length": 45,
+        "height": 8.0
+    },
+    "L2G0": {
+        "class": "45 HIGH CUBE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 45,
+        "height": 8.5
+    },
+    "L2G1": {
+        "class": "45 HIGH CUBE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 45,
+        "height": 8.5
+    },
+    "L2G2": {
+        "class": "45 HIGH CUBE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 45,
+        "height": 8.5
+    },
+    "L2G3": {
+        "class": "45 HIGH CUBE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 45,
+        "height": 8.5
+    },
+    "L2G9": {
+        "class": "45 HIGH CUBE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 45,
+        "height": 8.5
+    },
+    "L2GP": {
+        "class": "45 HIGH CUBE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 45,
+        "height": 8.5
+    },
+    "L5G0": {
+        "class": "45 HIGH CUBE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 45,
+        "height": 9.0
+    },
+    "L5GP": {
+        "class": "45 HIGH CUBE CONTAINER",
+        "type": "STANDARD DRY",
+        "length": 45,
+        "height": 9.5
+    },
+    "L5R1": {
+        "class": "45 REEFER HIGHCUBE CONTAINER",
+        "type": "45 REEFER HIGH CUBE",
+        "length": 45,
+        "height": 9.5
+    },
+    "L5R2": {
+        "class": "45 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 45,
+        "height": 9.5
+    },
+    "L5R3": {
+        "class": "45 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 45,
+        "height": 9.5
+    },
+    "L5RE": {
+        "class": "45 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 45,
+        "height": 9.5
+    },
+    "L5RS": {
+        "class": "45 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 45,
+        "height": 9.5
+    },
+    "45H0": {
+        "class": "45 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 45,
+        "height": 9.5
+    },
+    "45H1": {
+        "class": "45 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 45,
+        "height": 9.5
+    },
+    "45HI": {
+        "class": "45 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 45,
+        "height": 9.5
+    },
+    "45HR": {
+        "class": "45 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 45,
+        "height": 9.5
+    },
+    "9532": {
+        "class": "45 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 45,
+        "height": 9.5
+    },
+    "L2H0": {
+        "class": "45 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 45,
+        "height": 8.5
+    },
+    "L2H1": {
+        "class": "45 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 45,
+        "height": 8.5
+    },
+    "L2H2": {
+        "class": "45 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 45,
+        "height": 8.5
+    },
+    "L2HI": {
+        "class": "45 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 45,
+        "height": 8.5
+    },
+    "L2HR": {
+        "class": "45 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 45,
+        "height": 8.5
+    },
+    "L2R0": {
+        "class": "45 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 45,
+        "height": 8.5
+    },
+    "L2R1": {
+        "class": "45 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 45,
+        "height": 8.5
+    },
+    "L2R2": {
+        "class": "45 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 45,
+        "height": 8.5
+    },
+    "L2R3": {
+        "class": "45 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 45,
+        "height": 8.5
+    },
+    "L2RE": {
+        "class": "45 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 45,
+        "height": 8.5
+    },
+    "L2RS": {
+        "class": "45 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 45,
+        "height": 8.5
+    },
+    "L2RT": {
+        "class": "45 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 45,
+        "height": 8.5
+    },
+    "L5H0": {
+        "class": "45 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 45,
+        "height": 9.5
+    },
+    "L5H1": {
+        "class": "45 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 45,
+        "height": 9.5
+    },
+    "L5H2": {
+        "class": "45 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 45,
+        "height": 9.5
+    },
+    "L5HI": {
+        "class": "45 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 45,
+        "height": 9.5
+    },
+    "L5HR": {
+        "class": "45 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 45,
+        "height": 9.5
+    },
+    "L5R0": {
+        "class": "45 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED",
+        "length": 45,
+        "height": 9.5
+    },
+    "L5RT": {
+        "class": "45 REEFER HIGHCUBE CONTAINER",
+        "type": "THERMAL REFRIGERATED/HEATED",
+        "length": 45,
+        "height": 9.5
+    },
+    "12TR": {
+        "class": "FLATBED",
+        "type": "FLATBED",
+        "length": 42,
+        "height": 8.0
+    }
+}
