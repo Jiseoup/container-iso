@@ -15,7 +15,7 @@ You can retrieve detailed container information using an ISO code:
 from iso_container import get_container_info
 
 # Example usage
-container_info = get_container_info.get('22GP')
+container_info = get_container_info('22GP')
 print(container_info)
 ```
 
