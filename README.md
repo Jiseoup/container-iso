@@ -1,21 +1,18 @@
-# Container ISO
+# ISO Container
 A Python package based on ISO 6346 Container Codes.  
 This package provides functionalities to search for container information using ISO codes and to validate container numbers.
 
 ## Installation
 Install the package using pip:
 ```bash
-pip install container-iso
+pip install iso-container
 ```
-
-## Dataset
-The dataset used in this package is derived from the [ISO-Container-Codes](https://github.com/datasets/ISO-Container-Codes) repository, processed to enhance usability.
 
 ## Usage
 ### Search Container Information
 You can retrieve detailed container information using an ISO code:
 ```python
-from container_iso import get_container_info
+from iso_container import get_container_info
 
 # Example usage
 container_info = get_container_info.get('22GP')
@@ -26,13 +23,15 @@ print(container_info)
 Validate whether a container number is compliant with the ISO 6346 standard:
 
 ```python
-from container_iso import validate_container
+from iso_container import validate_container
 
 # Example usage
 is_valid = validate_container('MSCU1234567')
 print('Valid Container Number' if is_valid else 'Invalid Container Number')
 ```
 
-## License
+## Dataset
+The dataset used in this package is derived from the [ISO-Container-Codes](https://github.com/datasets/ISO-Container-Codes) repository, processed to enhance usability.
 
-This project is licensed under the MIT License.
+## License
+This project is licensed under the [MIT License](https://github.com/Jiseoup/container-iso/blob/main/LICENSE).

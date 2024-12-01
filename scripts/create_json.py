@@ -1,6 +1,6 @@
-"""Create Container ISO JSON file.
+"""Create ISO Container JSON file.
 
-This script preprocesses CSV files to generate a JSON-formatted Container ISO file.
+This script preprocesses CSV files to generate a JSON-formatted ISO Container file.
 The generated JSON file is utilized in package functions to load and use its values.
 """
 import json
@@ -10,7 +10,7 @@ import pandas as pd
 
 # Configure path.
 base_dir = Path(__file__).resolve().parent
-json_path = base_dir / '../container_iso/datasets.json'
+json_path = base_dir / '../iso_container/datasets.json'
 code_path = base_dir / '../datasets/data/iso-container-codes.csv'
 group_path = base_dir / '../datasets/data/iso-container-groups.csv'
 

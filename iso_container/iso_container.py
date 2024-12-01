@@ -1,4 +1,4 @@
-"""Container ISO 6346 package.
+"""ISO Container 6346 package.
 
 Functions:
     - get_container_info(code: str):
@@ -9,7 +9,7 @@ Functions:
 import json
 from pathlib import Path
 
-# Get Container ISO 6346 datasets.
+# Get ISO Container 6346 datasets.
 BASE_DIR = Path(__file__).resolve().parent
 DATASETS_PATH = BASE_DIR / 'datasets.json'
 with open(DATASETS_PATH, 'r', encoding='utf-8') as json_file:
@@ -29,7 +29,7 @@ def get_container_info(code: str) -> dict | None:
     """Retrieves container information by code.
 
     Args:
-        code (str): Container ISO code.
+        code (str): ISO Container code.
 
     Returns:
         dict | None: Container information if found, otherwise None.

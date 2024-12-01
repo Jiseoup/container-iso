@@ -4,8 +4,8 @@ with open('README.md', encoding='utf-8') as f:
 	  long_description = f.read()
 
 setup(
-	name='container-iso',
-	version='0.1.0',
+	name='iso-container',
+	version='1.0.0',
 	long_description=long_description,
 	long_description_content_type = 'text/markdown',
 	description='A Python package for ISO 6346 container information and validation.',
@@ -15,11 +15,11 @@ setup(
 	license='MIT',
 	python_requires='>=3.7',
 	install_requires=[],
-	packages=['container_iso'],
+	packages=['iso_container'],
 	package_data={'': ['datasets.json']},
-	keywords=['container', 'container iso', 'container validate', 'iso', 'iso6346'],
+	keywords=['container', 'iso container', 'container validate', 'iso', 'iso6346'],
 	classifiers=[
-        'Development Status :: 4 - Beta',
+        'Development Status :: 5 - Production/Stable',
         'Intended Audience :: Developers',
         'Programming Language :: Python :: 3',
         'Operating System :: OS Independent',
