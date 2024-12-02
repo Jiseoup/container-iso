@@ -1,11 +1,12 @@
 from setuptools import setup
+from iso_container import __version__
 
 with open('README.md', encoding='utf-8') as f:
 	  long_description = f.read()
 
 setup(
 	name='iso-container',
-	version='1.0.2',
+	version=__version__,
 	long_description=long_description,
 	long_description_content_type = 'text/markdown',
 	description='A Python package for ISO 6346 container information and validation.',
